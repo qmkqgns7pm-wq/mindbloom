@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MindBloom – Termini e Condizioni d'Uso</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", Roboto, sans-serif;
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 24px;
+            line-height: 1.6;
+            color: #222;
+            background-color: #fafafa;
+        }
+        h1, h2, h3 {
+            color: #111;
+        }
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 12px;
+        }
+        h2 {
+            margin-top: 32px;
+            font-size: 1.4rem;
+        }
+        p {
+            margin-bottom: 16px;
+        }
+        strong {
+            color: #000;
+        }
+        .updated {
+            background: #eee;
+            padding: 8px 12px;
+            border-left: 4px solid #8E8E8E;
+            margin-bottom: 24px;
+        }
+        a {
+            color: #007aff;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Termini e Condizioni d'Uso</h1>
+
+    <div class="updated">
+        Ultimo aggiornamento: <strong>Novembre 2025</strong>
+    </div>
+
+    <p>Benvenuto su <strong>MindBloom</strong>. Utilizzando questa applicazione accetti i presenti Termini e Condizioni
+        (“Termini”). Ti invitiamo a leggerli con attenzione. Se non accetti una qualsiasi parte di questi Termini,
+        ti preghiamo di non utilizzare l’applicazione.</p>
+
+    <h2>1. Descrizione del Servizio</h2>
+    <p>MindBloom è un’applicazione per iOS progettata per aiutarti a monitorare i libri che stai leggendo, gestire
+        le pagine completate, salvare note e citazioni e visualizzare progressi e traguardi. L’app funziona
+        completamente offline e non richiede la creazione di un account.</p>
+
+    <h2>2. Uso Consentito</h2>
+    <p>L’utente si impegna a utilizzare MindBloom esclusivamente per scopi personali e non commerciali, e a non:</p>
+    <ul>
+        <li>modificare o tentare di alterare l’app;</li>
+        <li>usarla per attività illegali o non autorizzate;</li>
+        <li>compromettere la sicurezza o il corretto funzionamento dell’app.</li>
+    </ul>
+
+    <h2>3. Proprietà Intellettuale</h2>
+    <p>Tutti i contenuti dell’app, inclusi design, grafica, codice, icone e badge, sono protetti da copyright
+        e restano proprietà esclusiva dello sviluppatore. La loro copia o distribuzione è vietata senza permesso.</p>
+
+    <h2>4. Contenuti dell’Utente</h2>
+    <p>Tutte le note, citazioni e dati di lettura inseriti dall’utente restano salvati esclusivamente sul
+        dispositivo. MindBloom non raccoglie, non conserva e non trasmette alcun contenuto dell’utente.</p>
+
+    <h2>5. Limitazione di Responsabilità</h2>
+    <p>L’app è fornita “così com’è”, senza garanzie di alcun tipo. Lo sviluppatore non è responsabile per:</p>
+    <ul>
+        <li>eventuali perdite di dati;</li>
+        <li>malfunzionamenti o bug;</li>
+        <li>problemi derivanti da un utilizzo improprio dell’app.</li>
+    </ul>
+
+    <h2>6. Aggiornamenti</h2>
+    <p>Lo sviluppatore si riserva il diritto di aggiornare, aggiungere o rimuovere funzionalità senza preavviso.</p>
+
+    <h2>7. Modifiche ai Termini</h2>
+    <p>I Termini possono essere aggiornati in futuro. La versione più recente sarà sempre disponibile online
+        attraverso il link pubblicato sull’App Store.</p>
+
+    <h2>8. Età Minima</h2>
+    <p>L’utilizzo dell’app è consentito agli utenti di età pari o superiore a 16 anni, o come richiesto dalle
+        normative locali.</p>
+
+    <h2>9. Contatti</h2>
+    <p>Per domande relative ai Termini, puoi contattare lo sviluppatore all’indirizzo:<br>
+        📩 <strong>domenicsteam@gmail.com</strong>
+    </p>
+
+</body>
+</html>
