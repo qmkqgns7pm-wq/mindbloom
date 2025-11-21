@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy – MindBloom</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 40px auto;
+            max-width: 800px;
+            line-height: 1.6;
+            color: #222;
+            padding: 0 20px;
+        }
+        h1, h2 {
+            color: #0A1E3D;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Privacy Policy di MindBloom</h1>
+<p><strong>Ultimo aggiornamento:</strong>Novembre 2025</p>
+
+<p>MindBloom è un’applicazione progettata per consentire agli utenti di organizzare i libri che leggono, annotare citazioni e gestire note personali. MindBloom è costruita secondo il principio della massima tutela della privacy: non raccoglie, non condivide e non traccia alcun dato personale dell’utente.</p>
+
+<h2>1. Dati raccolti</h2>
+<p>MindBloom non raccoglie alcun dato personale. Ciò include, a titolo esemplificativo ma non esaustivo:</p>
+<ul>
+    <li>Dati identificativi</li>
+    <li>Dati di contatto</li>
+    <li>Dati relativi all’attività dell’utente</li>
+    <li>Informazioni sulla posizione</li>
+    <li>Dati sanitari</li>
+    <li>Dati finanziari</li>
+    <li>Contenuti sincronizzati con server esterni</li>
+</ul>
+<p>Qualsiasi informazione inserita dall’utente (libri, note, citazioni) rimane esclusivamente sul dispositivo.</p>
+
+<h2>2. Archiviazione dei dati</h2>
+<p>Tutti i dati sono archiviati unicamente in locale sul dispositivo dell’utente. Disinstallando l’app, i dati vengono eliminati definitivamente.</p>
+
+<h2>3. Tecnologie di terze parti</h2>
+<p>MindBloom non utilizza alcun servizio esterno, SDK o libreria di terze parti per raccogliere dati, analisi, pubblicità o tracciamento.</p>
+
+<h2>4. Permessi richiesti</h2>
+<p>L’app richiede solo i permessi necessari per le funzionalità fornite, ad esempio l’accesso alle foto nel caso in cui l’utente voglia impostare una copertina personalizzata.</p>
+
+<h2>5. Diritti dell’utente</h2>
+<p>In conformità al GDPR, l’utente può esercitare i propri diritti, inclusa la revoca del consenso ai permessi iOS e l’eliminazione dei dati tramite la disinstallazione dell’app.</p>
+
+<h2>6. Sicurezza</h2>
+<p>MindBloom non invia dati su internet e non dispone di server remoti. Pertanto riduce al minimo qualsiasi rischio legato alla sicurezza dei dati.</p>
+
+<h2>7. Contatti</h2>
+<p>Per qualsiasi domanda sulla privacy è possibile contattare lo sviluppatore tramite email:</p>
+<p><strong>Email:</strong>domenicsteam@gmail.com</p>
+<p><strong>Sviluppatore:</strong> Domenico Sammarro</p>
+
+</body>
+</html>
