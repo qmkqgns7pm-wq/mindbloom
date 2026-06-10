@@ -18,7 +18,7 @@ jobs:
           echo "KEY length: ${#SUPABASE_ANON_KEY}"
           RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" \
             -X GET \
-            "${SUPABASE_URL}/rest/v1/" \
+            "${SUPABASE_URL}/rest/v1/book_cache?limit=1" \
             -H "apikey: ${SUPABASE_ANON_KEY}" \
             -H "Authorization: Bearer ${SUPABASE_ANON_KEY}")
           echo "Supabase ping response: $RESPONSE"
